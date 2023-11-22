@@ -1,0 +1,26 @@
+[
+  {
+    "nombre_pais":"Italia",
+    "atracciones": "asdlkasbdalkkdjasdasda",
+    "idioma":"Italiano",
+    "comidas":"Pizza,Pasta,Tiramisu"
+  },
+  {
+    "nombre_pais":"Francia",
+    "atracciones": "asdlkasbdalkkdjasdasda",
+    "idioma":"Frances",
+    "comidas":"Pizza,Pasta,Tiramisu"
+  },
+  {
+    "nombre_pais":"Japón",
+    "atracciones": "asdlkasbdalkkdjasdasda",
+    "idioma":"Japones",
+    "comidas":"Pizza,Pasta,Tiramisu"
+  },
+  {
+    "nombre_pais":"Italiaasdasda",
+    "atracciones": "asdlkasbdalkkdjasdasda",
+    "idioma":"Italianoasdasda",
+    "comidas":"Pizza,Pasta,Tiramisu"
+  }
+]
